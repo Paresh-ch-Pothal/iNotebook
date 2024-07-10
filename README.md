@@ -1,4 +1,4 @@
-## iNotebook
+## iNotebook (Using MERN)
 iNotebook is a web application for managing your notes efficiently. It allows you to create, edit, and delete notes. The application is built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
 ## Table of Contents
