@@ -22,7 +22,7 @@ iNotebook is a web application for managing your notes efficiently. It allows yo
 - Backend Setup
 
 ## Clone the repository:
-- git clone https://github.com/yourusername/inotebook.git
+- git clone (https://github.com/Paresh-ch-Pothal/iNotebook)
 - cd inotebook
 - Install backend dependencies:
 - npm install
